@@ -1,6 +1,6 @@
 {
-  "name": "PlannerApp.Client",
-  "short_name": "PlannerApp.Client",
+  "name": "Planner App",
+  "short_name": "Planner App",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
